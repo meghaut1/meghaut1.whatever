@@ -4,7 +4,7 @@ layout: resume
 ---
 # Meghan Utter
 
-
+>meghaut1@umbc.edu    443-604-8146      meghaut1@github.com
 
 ## Education
  **University of Maryland, Baltimore County**
