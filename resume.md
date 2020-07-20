@@ -1,52 +1,52 @@
----
-title: "C'thulhu Resume"
-layout: resume
----
+# Meghan Utter
 
-# C'thulhu
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
 
 ## Education
-
-### **Withering Madness University** Planet Vhoorl
-
-**Major:** Public Relations
-
-**Minor:** Scale Tending
+ **University of Maryland, Baltimore County**
+  B.S. Computer Science: 3.25 / 4.0     
+  *December, 2020*    
+## Work Experience 
+### Lawrence Livermore National Laboratory 
+**HPC Engineer Intern, June 2020 - August 2020**  
+  - Developed a centralized database system to store node configuration information using mySQL and python3.
+  - Installed a cluster of a high-performance computer, configured network connections and collaborated in automating the process through shell scripting, and ansible-playbooks. 
+### University of Maryland, Baltimore County
+**Undergraduate Teaching Assistant, September 2018 – December 2019**
+ - Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
+-	Responsible for grading classwork and homework assignments. 
 
 ## Skills
+### Programming Languages
+-  C /C++   
+-  Python  
+-  mySQL
+### Software 
+- Github
+- Ansible
+### Operating Systems
+- Linux Redhat/Fedora
+- Window 7/10
+## Relevent Courses
+- Computer Science I/II
+- Data Structures
+- Computer Architecture 
+- Algorithms
+- Software Engineering
+- Databases
 
-### **Office skills**
+Install the dependencies and devDependencies and start the server.
+## Research Experience 
+### Culture, Child and Adolesent Development Lab
+**Undergraduate Research Assistant and Research Coordinator May 2017 – December 2019**
+- Worked with a research team to conduct experiments efficiently.
+- Learned how use various technologies to design, create and conduct psychology surveys and assessments.
+- Participant scheduling and coordination with research team.
 
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+## Extracurricular Activities
+### Club Cheer
+**Secretary/Fundraising Chair**
+- Took and organized notes during meetings. 
+- Organized and led fundraisers. 
+- Managed all club social media accounts
+ 
