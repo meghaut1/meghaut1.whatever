@@ -14,10 +14,11 @@ layout: resume
 ### Lawrence Livermore National Laboratory 
 HPC Engineer Intern, June 2020 - August 2020  
   - Developed a centralized database system to store node configuration information using mySQL and python3.
-  - Installed a cluster of a high-performance computer, configured network connections and collaborated in automating the process through shell scripting, and ansible-playbooks. 
+  - Installed a cluster of a high-performance computer, configured network connections and collaborated in automating the process through shell scripting, and ansible-playbooks.
+  
 ### University of Maryland, Baltimore County
 Undergraduate Teaching Assistant, September 2018 – December 2019
- - Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
+- Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
 -	Responsible for grading classwork and homework assignments. 
 
 ## Skills
