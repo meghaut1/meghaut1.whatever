@@ -12,11 +12,11 @@ layout: resume
   *December, 2020*    
 ## Work Experience 
 ### Lawrence Livermore National Laboratory 
-**HPC Engineer Intern, June 2020 - August 2020**  
+HPC Engineer Intern, June 2020 - August 2020  
   - Developed a centralized database system to store node configuration information using mySQL and python3.
   - Installed a cluster of a high-performance computer, configured network connections and collaborated in automating the process through shell scripting, and ansible-playbooks. 
 ### University of Maryland, Baltimore County
-**Undergraduate Teaching Assistant, September 2018 – December 2019**
+Undergraduate Teaching Assistant, September 2018 – December 2019
  - Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
 -	Responsible for grading classwork and homework assignments. 
 
@@ -39,7 +39,6 @@ layout: resume
 - Software Engineering
 - Databases
 
-Install the dependencies and devDependencies and start the server.
 ## Research Experience 
 ### Culture, Child and Adolesent Development Lab
 **Undergraduate Research Assistant and Research Coordinator May 2017 – December 2019**
