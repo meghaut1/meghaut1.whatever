@@ -11,6 +11,7 @@ layout: resume
   B.S. Computer Science: 3.25 / 4.0     
   *December, 2020*    
 ## Work Experience 
+
 ### Lawrence Livermore National Laboratory 
 HPC Engineer Intern, June 2020 - August 2020  
   - Developed a centralized database system to store node configuration information using mySQL and python3.
@@ -18,8 +19,8 @@ HPC Engineer Intern, June 2020 - August 2020
   
 ### University of Maryland, Baltimore County
 Undergraduate Teaching Assistant, September 2018 – December 2019
-- Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
--	Responsible for grading classwork and homework assignments. 
+  - Assisted in teaching fundamental computer science skills, by resolving all student questions during office hours and in lab time. 
+  -	Responsible for grading classwork and homework assignments. 
 
 ## Skills
 ### Programming Languages
